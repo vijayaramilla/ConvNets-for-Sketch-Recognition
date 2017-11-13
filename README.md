@@ -1,12 +1,34 @@
-# PyTorch_Examples
-Development of machine learning algorithms using Pytorch Deep learning Framework.
+# DEEP DOODLE:
+- *Doodles are Fun to draw and hard to classify, especially if I draw*
+-------------------------------------------------------------------
+To Do:
+1. add links to data set
+2. add links to algo and practice notebook.
+3. Commit the jupyter note books
 
-In these examples, we gradually make our way into the world of Deep learning and how to use Deep learning frameworks.
+In this project I intend to experiment with various machine learning algorithms on a classification problem.
 
-The main Focus here is Pytorch.
+**Task:** Classify images, ones that are shitty drawn i.e., doodles.
 
-We first implement Neural Nets using numpy arrays, then move on to implmenting the same with tensors and then using the proceed to experience the magic of autograd and back propagation.
-While doing this I ll be comparing the results on each implementation. 
+**DateSet:** Google Quickdraw dataset
 
-## Contents
-* [2Layer_Nueral_Network_using_Numpy](https://github.com/vijayaramilla/PyTorch_Examples/blob/master/2Layer_Nueral_Network_using_Numpy.ipynb)
+
+We experiment with many algorithm, list provided below. We take baby steps, first implementing simple algorithms, experiment with numpy, tensors, then the shit gets real. We play with PyTorch and its Autograd functionality. Implement Nueral Network, Then the Deep ones (real deep), Convolutional Neural Network and then finally more sophisticated CNN.
+
+We play with several parameters while implementing the algorithms. Details are provided in the respective sections and also the Jupyter notebooks with visualization. Lets rock!!
+
+Before jumping in to the actual implementations, lets play with the easy implementation.
+
+## Intro to Pytorch:
+1. [2Layer_Nueral_Network_using_Numpy](https://github.com/vijayaramilla/PyTorch_Examples/blob/master/2Layer_Nueral_Network_using_Numpy.ipynb)
+
+## Algorithms:
+1. Perceptron
+2. Logistic Regression
+3. 2_Layer Neural Network
+4. Deep Neural Network
+5. CNN
+6. CNN - A fine tuned one
+
+
+
