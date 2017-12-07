@@ -27,9 +27,11 @@ Before jumping in to the actual implementations, lets play with the easy impleme
 
 ## Doodle calssification Algorithms:
 3. [2_Layer Neural Network](https://github.com/vijayaramilla/Deep_Doodle-ConvNets/blob/master/simple-two-layer-nn.ipynb)
-4. Deep Neural Network: *Under Construction*
+4. Deep Neural Network: Neural Network implementation with several hidden layers. Experiments conducted to tune the performance.
+[Deep Neural Net](https://github.com/vijayaramilla/Deep_Doodle-ConvNets/blob/master/feed-forward-nn-experiments_upload.ipynb)
 5. [Simple Convnet](https://github.com/vijayaramilla/Deep_Doodle-ConvNets/blob/master/simple-conv-nn.ipynb)
-6. CNN on steroids (Such Performance Much Fun): *Under Construction*
+6. CNN on steroids (Such Performance Much Fun): Several experiments are conducted to tune the hyper parameters and improve accuracy.
+[CNN final version](https://github.com/vijayaramilla/Deep_Doodle-ConvNets/blob/master/maximizing-performance_upload.ipynb)
 
 
 
